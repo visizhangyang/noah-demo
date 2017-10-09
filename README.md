@@ -1,8 +1,5 @@
-# noah-dem
+# Noah 测试项目
 
-Noah 测试项目
+npm install
 
---------命令---------
-
-#npm install
-#gulp
+gulp
